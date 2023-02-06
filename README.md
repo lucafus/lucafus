@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- !-- Hello my name is Luca Fusaro, I started this program because I wanted to change my field of work for something more interesting and stable than my previous job, I'm really interested in the possibilities of Python and AI tools -->
+  Hello, my name is Luca Fusaro, I'm currently transitioning from the recruitment sector into the cloud thats why I'm starting to learn the amazing possibilities that GitHub has to offer, I'm really interested in Python and the great possiblities of AI tools. I'm actually learning Linux,AWS,Terraform between other tools to create a path into the cloud computing field.  
 
 Find out more about me & feel free to connect with me here:
 
@@ -25,8 +25,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lucafush&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lucafus&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucafus&hide=TeX&layout=compact)
 
-
+i
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=lucafus%2Flucafush&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=lucafus%2Flucafus)
